@@ -1,7 +1,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    background-color: #f0f8ff;
+    background-color: #a0cbf0;
     padding: 40px 20px;
     margin: 0;
   }
@@ -36,7 +36,7 @@ body {
   button {
     padding: 15px 20px;
     font-size: 20px;
-    background-color: #ffffff;
+    background-color: #ccdafc;
     border: 2px solid #ccc;
     border-radius: 10px;
     cursor: pointer;
@@ -62,10 +62,11 @@ body {
   .score {
     margin-bottom: 30px;
     color: #444;
+    text-shadow: #333;
   }
   
   .operators button {
-    background-color: #fffbf0;
+    background-color: #eff7cf;
     border-color: #f4cd7c;
   }
   
